@@ -1,16 +1,149 @@
-# React + Vite
+✨ **Saumya Verma — Personal Portfolio:**
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern, responsive **Frontend Developer Portfol[io Website** built with React to showcase my projects, skills, and development journey.
+This portfolio reflects my approach to building clean, scalable, and user-friendly web interfaces.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## 🌍 Live Website
 
-## React Compiler
+🔗 **View Portfolio:**
+https://portfolio-mu-nine-63.vercel.app/
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+---
 
-## Expanding the ESLint configuration
+## 📌 About The Project
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+This project was built to:
+
+* Present my frontend development skills professionally
+* Showcase real projects with clean UI
+* Provide an easy way to download my resume
+* Allow recruiters to quickly explore my work
+
+The focus was on:
+
+* Clean component structure
+* Reusable code
+* Responsive design
+* Smooth navigation
+
+---
+
+## 🚀 Features
+
+✔ Fully Responsive Design
+
+✔ Modern UI Layout
+
+✔ React Router Navigation
+
+✔ Projects Section
+
+✔ Resume Download Button
+
+✔ Contact Section
+
+✔ Organized Folder Structure
+
+
+---
+
+## 🛠️ Tech Stack
+
+**Frontend:**
+
+* React.js
+* React Router DOM
+* JavaScript (ES6+)
+* HTML5
+* CSS3
+
+**Deployment:**
+
+* Vercel
+
+---
+
+## 📂 Folder Structure
+
+```
+src/
+│
+├── components/
+├── sections/
+│   ├── Hero.jsx
+│   ├── About.jsx
+│   ├── Projects.jsx
+│   ├── Skills.jsx
+│   └── Contact.jsx
+│
+├── pages/
+├── data/
+├── App.jsx
+└── main.jsx
+```
+
+---
+
+## ⚙️ Installation & Setup
+
+Clone the repository:
+
+```
+git clone https://github.com/your-username/portfolio.git
+```
+
+Navigate to the project directory:
+
+```
+cd portfolio
+```
+
+Install dependencies:
+
+```
+npm install
+```
+
+Run the development server:
+
+```
+npm run dev
+```
+
+---
+
+## 📄 Resume
+
+My resume is available directly through the **Resume button** in the Hero section of the portfolio.
+
+---
+
+## 🎯 Future Enhancements
+
+* Add animations using Framer Motion
+* Implement dark/light theme toggle
+* Improve UI micro-interactions
+* Add backend integration for contact form
+* Add more real-world projects
+
+---
+
+## 👩‍💻 Author
+
+**Saumya Verma**
+Frontend Developer
+
+* GitHub: https://github.com/saumya-30-verma
+* LinkedIn: https://www.linkedin.com/in/saumya-verma-5747a117b/
+
+---
+
+## ⭐ Show Your Support
+
+If you found this project useful or inspiring, feel free to give it a ⭐ on GitHub.
+
+---
+
+> “Building fast, scalable web apps with clean and polished interfaces.”
