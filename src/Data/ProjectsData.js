@@ -1,5 +1,13 @@
 export const Projects= [
     {
+        title: "Smart Notes AI App",
+        description: "A smart notes application built with Next.js that allows users to create, manage, and summarize notes using AI. Includes local storage persistence and clean UI for better user experience.",
+        tech: "Next.js, React, CSS, JavaScript, API Routes",
+        live: "https://notes-app-nextjs-two.vercel.app/dashboard/notes",
+        GitHub: "https://github.com/saumya-30-verma/notes-app-nextjs"
+    },
+
+    {
         title: "DevFolio Builder",
         description: "Build professional developer portfolios in minutes with this React-powered portfolio builder. Interactive forms, templates, and clean UI included",
         tech: "React, CSS, JavaScript",
