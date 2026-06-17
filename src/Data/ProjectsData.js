@@ -1,5 +1,14 @@
 export const Projects= [
     {
+        title: "Food Ordering App",
+        description: "A full-stack food ordering platform built with React, Node.js, Express, and MongoDB, featuring CRUD operations, search, category filtering, cart management, and live deployment.",
+        tech: "React, Node.js, Express.js, MongoDB, Mongoose, Vercel, Render",
+        live: "https://food-ordering-frontend-olive.vercel.app/",
+        GitHub: "https://github.com/saumya-30-verma/food-ordering-frontend",
+        Github: "https://github.com/saumya-30-verma/food-ordering-backend"
+    },
+
+    {
         title: "Smart Notes AI App",
         description: "A smart notes application built with Next.js that allows users to create, manage, and summarize notes using AI. Includes local storage persistence and clean UI for better user experience.",
         tech: "Next.js, React, CSS, JavaScript, API Routes",
