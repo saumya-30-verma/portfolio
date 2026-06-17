@@ -4,7 +4,7 @@ export const Projects= [
         description: "A full-stack food ordering platform built with React, Node.js, Express, and MongoDB, featuring CRUD operations, search, category filtering, cart management, and live deployment.",
         tech: "React, Node.js, Express.js, MongoDB, Mongoose, Vercel, Render",
         live: "https://food-ordering-frontend-olive.vercel.app/",
-        GitHub: "https://github.com/saumya-30-verma/food-ordering-frontend",
+        Github: "https://github.com/saumya-30-verma/food-ordering-frontend",
         Github: "https://github.com/saumya-30-verma/food-ordering-backend"
     },
 
