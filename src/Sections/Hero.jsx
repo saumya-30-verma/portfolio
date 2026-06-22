@@ -35,7 +35,11 @@ const Hero = ({name, role}) => {
             <div className='card'>HTML</div>
             <div className='card'>CSS</div>
             <div className='card'>Javascript</div>
-            <div className='card'>React</div>
+            <div className='card'>React.js</div>
+            <div className='card'>Next.js</div>
+            <div className='card'>Node.js</div>
+            <div className='card'>Express.js</div>
+            <div className='card'>MongoDB</div>
         </div>
       </div>
         

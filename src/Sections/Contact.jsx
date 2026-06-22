@@ -23,6 +23,14 @@ const Contact = () => {
         target='_blank'
         rel='noopener noreferrer'
         >GitHub</a>
+
+        <a
+        href="https://www.fiverr.com/sellers/saumyaverma531/edit"
+        target="_blank"
+        rel="noopener noreferrer"
+        >
+        Fiverr
+        </a>
     </div>
     </section>
   )
