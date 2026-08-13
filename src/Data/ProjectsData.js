@@ -9,6 +9,15 @@ export const Projects= [
     },
 
     {
+        title: "Daymate- AI Task Planner",
+        description: "A full-stack AI-powered task planner that helps users organize daily tasks and generates a simple, realistic plan using Groq AI.",
+        tech: "React, Node.js, Express.js, Groq AI, Tailwind CSS, Vite",
+        live: "https://daymate-frontend-drjo.vercel.app/",
+        GitHub: "https://github.com/saumya-30-verma/Daymate-frontend",
+        GithubBackend: "https://github.com/saumya-30-verma/Daymate-backend"
+    },
+
+    {
         title: "Smart Notes AI App",
         description: "A smart notes application built with Next.js that allows users to create, manage, and summarize notes using AI. Includes local storage persistence and clean UI for better user experience.",
         tech: "Next.js, React, CSS, JavaScript, API Routes",
